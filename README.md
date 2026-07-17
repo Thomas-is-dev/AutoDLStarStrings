@@ -1,1 +1,3 @@
-Inspired by [StarStrings](https://github.com/MrKraken/StarStrings) with author [MrKraken](https://github.com/MrKraken)
+Inspired by [StarStrings](https://github.com/MrKraken/StarStrings)
+
+Auto Downloader and installer for Star Citizen.
