@@ -1,0 +1,8 @@
+pip install pyinstaller
+pyinstaller --onefile autoupdate.py
+pyinstaller --onefile --name "mon app" autoupdate.py
+
+or
+
+pip install auto-py-to-exe
+auto-py-to-exe
