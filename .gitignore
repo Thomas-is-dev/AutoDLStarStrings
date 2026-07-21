@@ -1,0 +1,5 @@
+.env
+repo_url.json
+__pycache__/
+build
+*.spec
