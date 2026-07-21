@@ -2,6 +2,7 @@ import requests
 import os
 import hashlib
 import argparse
+import sys
 from pathlib import Path
 from functools import lru_cache
 from githubapi import find_file_recursive, update_repo_url, get_repo_url
@@ -162,4 +163,4 @@ def main():
     return 0 if success else 1
 
 if __name__ == "__main__":
-    exit(main())
+    sys.exit(main())
