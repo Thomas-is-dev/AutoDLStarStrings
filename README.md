@@ -14,4 +14,4 @@ How use :
 FAQ:
 
 Custom Star Citizen path ?
-- Edit or run : python "autoupdate.py" -p "C:/StarCitizen/LIVE"
+- Edit or run : **python "autoupdate.py" -p "C:/StarCitizen/LIVE"**
