@@ -1,6 +1,7 @@
 .env
-repo_url.json
 __pycache__/
-build
-*.spec
-venv
+*.pyc
+.venv/
+venv/
+build/
+dist/
