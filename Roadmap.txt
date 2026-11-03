@@ -1,4 +1,0 @@
-Create python installer
-=======================
-
-python -m PyInstaller --onefile .\autoupdate.py
